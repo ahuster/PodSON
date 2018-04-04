@@ -1,0 +1,21 @@
+{
+  "title": "Overcast Podcast Subscriptions",
+  "podcasts": [
+    {
+      "podcast": "This American Life",
+      "feedUrl": "http://loadingreadyrun.com/lrrcasts/feed/qwerp",
+      "siteUrl": "http://loadingreadyrun.com/lrrcasts/archive/qwerp",
+      "subscribed": "true",
+      "episodes": [
+        {
+          "guid": "globally unique id (either GUID or permalink)",
+          "playbackTime": "00:00:00"
+        },
+        {
+          "guid": "guid 2",
+          "playbackTime": "00:00:00"
+        }
+      ]
+    }
+  ]
+}
